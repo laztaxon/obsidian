@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "68d14ec6351fcee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e67ededd4cceb15",
+        "type": "tabs",
+        "dimension": 70.15873015873015,
+        "children": [
+          {
+            "id": "1dbdd3e6eef436a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/tmux-cheat_sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "471cc9449bf074eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/work/work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb179565c4b258be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/zettlekasten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99598b73b63e08a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/bash-creating-alias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "205078b109b798a7",
+        "type": "tabs",
+        "dimension": 29.841269841269842,
+        "children": [
+          {
+            "id": "db45142787ace35c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e677588f1010e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e7d42c98146455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b6d8f866a1ee74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1dc603b96156f38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60dcab458aa69960",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e30c0d49b03892ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aa0e02641b75fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c56f38331a170b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettlekasten/zettlekasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66a7756ef6cd76b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettlekasten/zettlekasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd1ec20880976908",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7497b0352e9d9475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettlekasten/zettlekasten.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1dc603b96156f38",
+  "lastOpenFiles": [
+    "bash-creating-alias.md",
+    "Resources",
+    "Projects",
+    "Areas/work",
+    "Areas",
+    "Zettlekasten",
+    "Zettlekasten/zettlekasten.md",
+    "Areas/work/work.md",
+    "Zettlekasten/tmux-cheat_sheet.md",
+    "Zettlekasten/bash-creating-alias.md",
+    "Zettlekasten/obsidian-zk-setup.md",
+    "Projects/active-work-projects.md",
+    "Welcome.md",
+    "Resources/tmux.md"
+  ]
+}

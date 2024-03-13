@@ -1,0 +1,11 @@
+{
+  "accentColor": "#50b45c",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Geist Variable",
+  "textFontFamily": "Geist Variable",
+  "cssTheme": "Ukiyo",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Geist Mono Variable",
+  "nativeMenus": true,
+  "translucency": true
+}
