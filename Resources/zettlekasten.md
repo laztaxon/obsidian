@@ -1,0 +1,5 @@
+[[obsidian-zk-setup]]
+[[obsidian]]
+[[tmux]]
+[[zsh-creating-alias]]
+[[nvim - creating-linked-obsidian note 3-13-24]]

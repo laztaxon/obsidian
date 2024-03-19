@@ -1,7 +1,12 @@
+---
+tags:
+  - active
+---
+
 **Starting and managing sessions**
 
 - Start a new session: `tmux` or `tmux new`
-- Start a new named session: `tmux new -s session_name`
+- [ ] Start a new named session: `tmux new -s session_name`
 - Attach to last session: `tmux attach` or `tmux a`
 - Attach to named session: `tmux attach -t session_name`
 - List sessions: `tmux ls`

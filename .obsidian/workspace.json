@@ -4,12 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2e67ededd4cceb15",
+        "id": "517e196ab09511ef",
         "type": "tabs",
-        "dimension": 70.15873015873015,
         "children": [
           {
-            "id": "1dbdd3e6eef436a2",
+            "id": "578c36d54a2beb15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/work/420 Smoke Shop Campaign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e2b61d64420ebcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889c714281463726",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,58 +35,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "471cc9449bf074eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/work/work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb179565c4b258be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/zettlekasten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99598b73b63e08a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/bash-creating-alias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "205078b109b798a7",
-        "type": "tabs",
-        "dimension": 29.841269841269842,
-        "children": [
-          {
-            "id": "db45142787ace35c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -123,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e30c0d49b03892ac",
@@ -139,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/zettlekasten.md",
+                "file": "Zettlekasten/tmux-cheat_sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/zettlekasten.md",
+                "file": "Zettlekasten/tmux-cheat_sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +145,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/zettlekasten.md"
+                "file": "Zettlekasten/tmux-cheat_sheet.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,29 +159,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1dc603b96156f38",
+  "active": "889c714281463726",
   "lastOpenFiles": [
-    "bash-creating-alias.md",
+    "Areas/obsidian.md",
+    "Areas/work/420 Smoke Shop Campaign.md",
+    "Zettlekasten/tmux-cheat_sheet.md",
+    "Resources/zettlekasten.md",
+    "obsidian.md",
+    "Untitled.md",
+    "Zettlekasten/zsh-creating-alias.md",
+    "Resources/bash-creating-alias.md",
+    "Zettlekasten/nvim - creating-linked-obsidian note 3-13-24.md",
+    "Areas/work/work_index.md",
+    "Projects/active-work-projects.md",
+    "1710561587-CXRW.md",
+    "1710561538-FHHJ.md",
+    "1710561301-TIOR.md",
+    "1710559231-WMQM.md",
+    "Areas/work/work-asset-repository.md",
     "Resources",
     "Projects",
     "Areas/work",
     "Areas",
     "Zettlekasten",
-    "Zettlekasten/zettlekasten.md",
-    "Areas/work/work.md",
-    "Zettlekasten/tmux-cheat_sheet.md",
-    "Zettlekasten/bash-creating-alias.md",
     "Zettlekasten/obsidian-zk-setup.md",
-    "Projects/active-work-projects.md",
     "Welcome.md",
     "Resources/tmux.md"
   ]
