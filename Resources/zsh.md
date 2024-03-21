@@ -1,0 +1,1 @@
+[[zsh-creating-alias]]

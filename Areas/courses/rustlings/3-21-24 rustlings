@@ -1,0 +1,16 @@
+---
+---
+It's the first time in a minute that I am going back to try rustlings. It's been probably like a month of two and I do feel like I have some more experience understand and writing code.
+But, I feel unsure if rust is the right language to be learning. I figured it might give me a strong basis for other programming, but I might be bitting off more than I can chew.
+~/Documents/2023-Coding/rustlings/
+#### vecs1.rs
+create a vec holding the same elements as array a
+[[rust-vectors]]
+- [ ] solution
+```rust
+fn array_and_vec() -> ([i32; 4], Vec<i32>) {
+    let a = [10, 20, 30, 40]; // a plain array
+    let v = vec![10, 20, 30, 40]; // TODO: declare your vector here with the macro for vectors
+    (a, v)
+}
+```

@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "517e196ab09511ef",
+        "id": "ef00d41b51497caf",
         "type": "tabs",
         "children": [
           {
-            "id": "578c36d54a2beb15",
+            "id": "d728f9d89257ae96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/work/420 Smoke Shop Campaign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e2b61d64420ebcf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "889c714281463726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/tmux-cheat_sheet.md",
+                "file": "Resources/zsh.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e30c0d49b03892ac",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/tmux-cheat_sheet.md",
+                "file": "Resources/zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/tmux-cheat_sheet.md",
+                "file": "Resources/zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/tmux-cheat_sheet.md"
+                "file": "Resources/zsh.md"
               }
             }
           }
@@ -168,31 +148,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "889c714281463726",
+  "active": "d728f9d89257ae96",
   "lastOpenFiles": [
-    "Areas/obsidian.md",
-    "Areas/work/420 Smoke Shop Campaign.md",
-    "Zettlekasten/tmux-cheat_sheet.md",
+    "Resources/Vimium.md",
+    "Resources/zsh.md",
+    "Resources/rust.md",
+    "Resources/obsidian.md",
+    "Resources/tmux.md",
     "Resources/zettlekasten.md",
-    "obsidian.md",
-    "Untitled.md",
-    "Zettlekasten/zsh-creating-alias.md",
-    "Resources/bash-creating-alias.md",
-    "Zettlekasten/nvim - creating-linked-obsidian note 3-13-24.md",
-    "Areas/work/work_index.md",
-    "Projects/active-work-projects.md",
-    "1710561587-CXRW.md",
-    "1710561538-FHHJ.md",
-    "1710561301-TIOR.md",
-    "1710559231-WMQM.md",
-    "Areas/work/work-asset-repository.md",
+    "Readwise/Articles/What You Need to Know When Clients Dissociate, Part 1.md",
+    "Readwise/Articles/What You Need to Know When Clients Dissociate — Part 2.md",
+    "Zettlekasten/vimium-commands.md",
+    "Readwise/Articles/Quick Start.md",
+    "Readwise/Articles/Beyond Vector Search Knowledge Management With Generative AI.md",
+    "Readwise/Articles/The Swift Programming Language (5.9).md",
+    "Readwise/Articles/Apple’s Job Listings Suggest It Plans to Infuse AI in Multiple Products.md",
+    "Readwise/Articles/Dating, Romance, and CPTSD.md",
+    "Readwise/Articles/Grounding Techniques Step-by-Step Guide and Methods.md",
+    "Readwise/Articles/The Dawn of LMMs.md",
+    "Readwise/Articles/The 4 Golden Rules of UI Design  Adobe XD Ideas.md",
+    "Readwise/Articles/Web Content Accessibility Guidelines (WCAG) 2.1.md",
+    "Readwise/Articles/A Guide to Variables in Figma.md",
+    "Readwise/Articles/The Case for AI Hallucination.md",
+    "Readwise/Articles/Sam Altman Backs Teens’ AI Startup Automating Browser-Native Workflows.md",
+    "Readwise/Articles/How to Clean Dog Rope Toy.md",
+    "Readwise/Articles/Responsive UI Design With Figma’s Variables and Modes.md",
+    "Readwise/Books/Designing Human-Centric AI Experiences.md",
+    "Readwise/Books/The GPT-4 Millionaire.md",
+    "Readwise/Books/You Are Here.md",
+    "Readwise/Articles",
+    "Readwise/Books",
+    "Readwise",
+    "Areas/courses/rustlings/3-21-24 rustlings",
+    "Areas/courses/rustlings/001",
+    "Areas/courses/rustlings",
+    "Areas/courses/boot.dev",
+    "Areas/courses",
     "Resources",
-    "Projects",
-    "Areas/work",
-    "Areas",
-    "Zettlekasten",
-    "Zettlekasten/obsidian-zk-setup.md",
-    "Welcome.md",
-    "Resources/tmux.md"
+    "Projects"
   ]
 }

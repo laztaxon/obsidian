@@ -1,8 +1,13 @@
 ---
 id: 420 Smoke Shop Campaign
-aliases: []
-tags: []
+aliases: 
+tags:
+  - project-plan
+  - design
+  - work
 ---
+	[[work_index]]
+[[420 SmokeShop Reference Doc]]
 - 15:30 meeting on moday
 - ready to go end of day monday
 - PDF DL Document

@@ -1,0 +1,13 @@
+![rw-book-cover](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2018-03/dissociation.jpg?itok=xrRdqh2D)
+[[What You Need to Know When Clients Dissociate — Part 2]]
+## Metadata
+- Author: [[Psychology Today]]
+- Full Title: What You Need to Know When Clients Dissociate, Part 1
+- Category: #articles
+- Summary: When working with trauma survivors, it is common for clients to dissociate, or mentally check out, during sessions. This dissociation is a coping strategy developed in childhood to escape potentially threatening situations. It is important for therapists to address and identify dissociative experiences in order to help clients understand and consciously choose to stay present. Dissociation always occurs because the client feels threatened, even if there is no objective danger. Therapists can help by identifying triggers and working with clients to process and understand the origins of their dissociative responses.
+- URL: https://www.psychologytoday.com/us/blog/healing-trauma-s-wounds/201803/what-you-need-know-when-clients-dissociate-part-1
+
+## Highlights
+- Clinically, this is called dissociation, and it’s best understood as a well-honed [childhood](https://www.psychologytoday.com/us/basics/child-development) coping strategy; mastering the ability to mentally escape when it’s impossible to physically escape a potentially threatening situation ([View Highlight](https://read.readwise.io/read/01hnqpd2w6ehscgz5mzcsbbjd5))
+- Yet it’s essential that the client’s dissociative experience is identified and addressed during the session, as this can be the safe context that is necessary for clients to understand dissociation and begin moving in the direction of consciously choosing to stay grounded and present when threatened. Although it is important to be gentle and compassionate when discussing the topic, ignoring dissociation keeps clients in a disempowered state and colludes with the inaccurate idea that zoning out is still a necessary response. ([View Highlight](https://read.readwise.io/read/01hnqpdn1rbvyptatcr9ct8p2z))
+- if the client feels the need to mentally escape, it means they are feeling unsafe. Therefore, identifying and understanding the catalysts, as well as knowing how to intervene and re-ground the client, helps to restore a sense of safety during the session and within the [therapeutic relationship](https://www.psychologytoday.com/us/basics/therapeutic-alliance). Since dissociation is not an arbitrary response, it always helps to put the dissociative reaction in context. Consider the following questions when assessing for triggers: ([View Highlight](https://read.readwise.io/read/01hnqpez4vh40r2271wc4kyx28))

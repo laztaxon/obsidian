@@ -5,5 +5,8 @@
   "improved-vimcursor",
   "vim-yank-highlight",
   "obsidian-vimrc-support",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-relative-line-numbers",
+  "cm-editor-syntax-highlight-obsidian",
+  "readwise-official"
 ]

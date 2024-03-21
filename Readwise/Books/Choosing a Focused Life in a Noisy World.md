@@ -1,0 +1,155 @@
+# Choosing a Focused Life in a Noisy World
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-5.25188386e520.png)
+
+## Metadata
+- Author: [[Cal Newport;]]
+- Full Title: Choosing a Focused Life in a Noisy World
+- Category: #books
+
+## Highlights
+- They honestly think there is no choice left. But alert and healthy natures remember that the sun rose clear. It is never too late to give up our prejudices.
+- a moment can feel strangely flat if it exists solely in itself.”
+- Similarly, a first adopter who picked up an iPhone in 2007 for the music features would be less enthusiastic if told that within a decade he could expect to compulsively check the device eighty-five times a day
+- We didn’t, in other words, sign up for the digital world in which we’re currently entrenched; we seem to have stumbled backward into it.
+- Increasingly, they dictate how we behave and how we feel, and somehow coerce us to use them more than we think is healthy, often at the expense of other activities we find more valuable
+- It’s not about usefulness, it’s about autonomy
+- The tycoons of social media have to stop pretending that they’re friendly nerd gods building a better world and admit they’re just tobacco farmers in T-shirts selling an addictive product to children. Because, let’s face it, checking your “likes” is the new smoking.
+    - Note: Tim Maher quote on social media
+- Tristan Harris
+- This thing is a slot machine,” Harris says early in the interview while holding up his smartphone
+- It’s not neutral. They want you to use it in particular ways and for long periods of time. Because that’s how they make their money.”
+- Minimizing distraction and respecting users’ attention would reduce revenue
+- intermittent positive reinforcement and the drive for social approval.
+- intermittent positive reinforcement
+- dopamine—a key neurotransmitter for regulating our sense of craving
+- Will you get likes (or hearts or retweets), or will it languish with no feedback? The former creates what one Facebook engineer calls “bright dings of pseudo-pleasure,” while the latter feels bad.
+- How do we consume as much of your time and conscious attention as possible?” And that means that we need to sort of give you a little dopamine hit every once in a while, because someone liked or commented on a photo or a post or whatever.
+- Sean Parker
+- We’re social beings who can’t ever completely ignore what other people think of us.”
+- If lots of people click the little heart icon under your latest Instagram post, it feels like the tribe is showing you approval—which we’re adapted to strongly crave.
+- Whatever we’re hoping to see, it never quite meets that bar
+- explains the universal urge to immediately answer an incoming text, even in the most inappropriate or dangerous conditions (think: behind the wheel)
+- It’s a social-validation feedback loop . . . exactly the kind of thing that a hacker like myself would
+- come up with, because you’re
+- exploiting a vulnerability in human psychology
+- As
+- Socrates explained to Phaedrus in Plato’s famous chariot metaphor, our soul can be understood as a chariot driver struggling to rein two horses, one representing our better nature and the other our baser impulses
+- I’m always skeptical about these quick-fix tales. In my experience covering these topics, it’s hard to permanently reform your digital life through the use of tips and tricks alone.
+- is a philosophy of technology use, something that covers from the ground up which digital tools we allow into our life, for what reasons, and under what constraints. In
+- Emma found a different approach to a similar end when she discovered that she could bookmark the Facebook notifications screen, allowing her to jump straight to the page that shows posts from a graduate student group she follows—bypassing the service’s most distracting features
+- bookmarking the Facebook events page so she could check on upcoming community events while bypassing “[all the] junk that Facebook is made up of.”
+- Dave didn’t settle for simply deciding to “use” Instagram; he instead thought hard about how best to integrate this tool into his life. In the end, he settled on posting one picture every week of whatever personal art project he happens to be working on.
+- Fast-forward a couple of years, and I’m spending a decent chunk of time every night doing three drawings!” Dave told me with obvious pride. “This wouldn’t have been possible if I didn’t protect how I spend my time.”
+- Principle #1: Clutter is costly
+- negative cost that can swamp the small benefits that each individual item provides in isolation.
+- cluttering their
+- time and attention with too many
+- Principle #2: Optimization is important.
+- To truly extract its
+- full potential benefit, it’s necessary to think carefully about how they’ll use the technology
+- Principle
+- #3: Intentionality is satisfying
+- I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived
+- How much of his time must be sacrificed to support his minimalist lifestyle? After plugging in the numbers gathered during his experiment, he determined that hiring out his labor only one day per week would be sufficient.
+- Who could justify trading a lifetime of stress and backbreaking labor for better blinds
+- How much of your time and attention, he would ask, must be sacrificed to earn the small profit of occasional connections and new ideas that is earned by cultivating a significant presence on Twitter?
+- It’s easy to be seduced by the small amounts of profit offered by the latest app or service, but then forget its cost in terms of the most important resource we possess: the minutes of our life.
+- more often than not, the cumulative cost of the noncrucial things we clutter our lives with can far outweigh the small benefits each individual piece of clutter promises.
+    - Note: Clutter is dangerous because it begins to smother us with diminishing returns when it comes the value it provides vs. the time, focus, and energy it winds up consuming.
+      Cumulative cost of the clutter > the small benefits it may provide.
+- if you’re willing to accept some flexibility in your definition of “production process,” the law of diminishing returns can apply to the various ways in which we use new technologies to produce value in our personal lives
+- optimizing how we use technology is just as important as how we choose what technologies to use in the first place.
+- invest some energy to identify a more carefully curated set of online news
+- Instapaper, that allows you to clip articles from these sites and read them all together in a nice interface that culls distracting ads
+- Perhaps, as the final step in this optimization, you discover through trial and error that you’re best able to absorb complex articles when you clip them throughout the week and then sit down to read through them all on Saturday morning on a tablet over coffee at a local café.
+- most people invest very little energy into these types of optimizations
+- focus not just on what technologies they adopt, but also on how they use them.
+    - Note: How can I optimize my use of the technologies I chose to adopt? 
+      What goals am I trying to reach through this technology and how can I be mindful about its use?
+- she’s not allowed to watch Netflix alone
+- By removing the apps from their phones, however, they eliminated their ability to browse their accounts as a knee-jerk response to boredom
+- while barely diminishing the value they provide to their lives
+- These corporations make more money the more time you spend engaged with their products
+- if you think of these services as offering a collection of features that you can carefully put to use to serve specific values, then almost certainly you’ll spend much less time using them
+- Finding useful new technologies is just the first step to improving your life. The real benefits come once you start experimenting with how best to use them
+- they start with the things they value most, then work backward to ask whether a given new technology performs more harm than good with respect to these values
+- The Amish prioritize the benefits generated by acting intentionally about technology over the benefits lost from the technologies they decide not to use
+- intention trumps convenience
+- I’m controlling the role technology is allowed to play in my life.
+- the very act of being selective about your tools will bring you satisfaction, typically much more than what is lost from the tools you decide to avoid
+- The Digital Declutter Process
+  Put aside a thirty-day period during which you will take a break from optional technologies in your life.
+- During this thirty-day break, explore and rediscover activities and behaviors that you find satisfying and meaningful.
+  At the end of the break, reintroduce optional technologies into your life, starting from a blank slate. For each technology you reintroduce, determine what value it serves in your life and how specifically you will use it so as to maximize this value.
+- the goal of the reintroduction is to put technology to work on behalf of specific things you value
+- The fact that it offers some value is irrelevant—the digital minimalist deploys technology to serve the things they find most important in their life, and is happy missing out on everything else
+- Digital minimalists combat this by maintaining standard operating procedures that dictate when and how they use the digital tools in their lives
+- Everyone benefits from regular doses of solitude, and, equally important, anyone who avoids this state for an extended period of time will, like Lincoln during his early months in the White House, suffer
+- Accordingly, they define it to be a subjective state in which your mind is free from input from other minds
+- solitude is about what’s happening in your brain, not the environment around you
+- In addition to direct conversation with another person, these inputs can also take the form of reading a book, listening to a podcast, watching TV, or performing just about any activity that might draw your attention to a smartphone screen
+- All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” Blaise Pascal famously wrote in the late seventeenth century
+- solitude is not a pleasant diversion, but instead a form of liberation from the cognitive oppression that results in its absence
+- We enter solitude, in which also we lose loneliness.
+- Solitude Deprivation
+  A state in which you spend close to zero time alone with your own thoughts and free from input from other minds
+- [Thoreau’s] intention was not to inhabit a wilderness,” he writes, “but to find wildness in a suburban setting.”
+- I’ve always had a sort of intuition that for every hour you spend with other human beings you need X number of hours alone. Now what that X represents I don’t really know . . . but it’s a substantial ratio.”
+- the urgency we feel to always have a phone with us is exaggerated
+- recommend that you try to spend some time away from your phone most days. This time could take many forms, from a quick morning errand to a full evening out, depending on your comfort level.
+- Only thoughts reached by walking have value.
+- On a regular basis, go for long walks, preferably somewhere scenic. Take these walks alone, which means not just by yourself, but also, if possible, without your phone
+- When I recently reread these notebooks, I was surprised to recall how far my thinking had already developed on issues like the danger of passion in career planning, the power of specialized craftsmanship in an age of general-purpose computing, and, presciently, the appeal of a new brand of technology-focused minimalism—which I was calling “Simplicity 2.0” at the time.
+- These notebooks play a different role: they provide me a way to write a letter to myself when encountering a complicated decision, or a hard emotion, or a surge of inspiration
+- Writing a letter to yourself is an excellent mechanism for generating exactly this type of solitude. It not only frees you from outside inputs but also provides a conceptual scaffolding on which to sort and organize your thinking.
+- When given downtime, in other words, our brain defaults to thinking about our social life.
+- we are interested in the social world because we are built to turn on the default network during our free time
+- Aristotle was on the right track when he called us social animals, but it took the modern invention of advanced brain scanners to help us figure out how much he was likely understating this reality.
+- The first was an NPR story posted in March of that year, which summarized the results of a pair of big-deal new studies about the connection between social media use and well-being. Both studies found strong correlations between social media use and a range of negative factors, from perceived isolation to poorer physical health.
+- The more time you spend “connecting” on these services, the more isolated you’re likely to become
+- The studies that found positive results focused on specific behaviors of social media users, while the studies that found negative results focused on overall use of these services
+- we have evidence that replacing your real-world relationships with social media use is detrimental to your well-being.”
+- The key issue is that using social media tends to take people away from the real-world socializing that’s massively more valuable
+- The small boosts you receive from posting on a friend’s wall or liking their latest Instagram photo can’t come close to compensating for the large loss experienced by no longer spending real-world time with that same friend
+- Humans are naturally biased toward activities that require less energy in the short term, even if it’s more harmful in the long term—so we end up texting our sibling instead of calling them on the phone, or liking a picture of a friend’s new baby instead of stopping by to visit
+- Critics have also highlighted the ability for social media to make us feel ostracized or inadequate, as well as to stoke exhausting outrage, inflame our worst tribal instincts, and perhaps even degrade the democratic process itself
+- Face-to-face conversation unfolds slowly. It teaches patience. We attend to tone and nuance.” On the other hand: “When we communicate on our digital devices, we learn different habits.”
+- conversation is the only form of interaction that in some sense counts toward maintaining a relationship. This conversation can take the form of a face-to-face meeting, or it can be a video chat or a phone call—so long as it matches Sherry Turkle’s criteria of involving nuanced analog cues, such as the tone of your voice or facial expressions. Anything textual or non-interactive—basically, all social media, email, text, and instant messaging—doesn’t count as conversation and should instead be categorized as mere connection.
+- This form of interaction now has two goals: to help set up and arrange conversation, or to efficiently transfer practical information (e.g., a meeting location or time for an upcoming event). Connection is no longer an alternative to conversation; it’s instead its supporter.
+- With this in mind, there would no longer be much purpose in keeping these apps on your phone, where they will mainly serve to undermine your attempts at richer interaction. They would instead more productively reside on your computer, where they’re occasionally put to specific use.
+- if you adopt conversation-centric communication, you’ll still likely rely on text-messaging services to simplify information gathering, or to coordinate social events, or to ask quick questions, but you’ll no longer participate in open-ended, ongoing text-based conversations throughout your day
+- Real conversation takes time, and the total number of people for which you can uphold this standard will be significantly less than the total number of people you can follow, retweet, “like,” and occasionally leave a comment for on social media, or ping with the occasional text.
+- Instead of seeing these easy clicks as a fun way to nudge a friend, start treating them as poison to your attempts to cultivate a meaningful social life. Put simply, you should stop using them. Don’t click “Like.” Ever. And while you’re at it, stop leaving comments on social media posts as well. No “so cute!” or “so cool!” Remain silent.
+- that they teach your mind that connection is a reasonable alternative to conversation
+- If you eliminate these trivial interactions cold turkey, you send your mind a clear message: conversation is what counts—don’t be distracted from this reality by the shiny stuff on your screen
+- If you couple this push toward more conversation with a blanket warning to your circle that you’re “not using social media much these days,” you’ll effectively insulate yourself from most complaints this policy might create
+- adopt the baseline rule that you’ll no longer use social media as a tool for low-quality relationship nudges
+- This practice suggests that you keep your phone in Do Not Disturb mode by default
+- consolidate texting
+- You can now schedule specific times for texting—consolidated sessions in which you go through the backlog of texts you received since the last check, sending responses as needed and perhaps even having some brief back-and-forth interaction before apologizing that you have to go, turning the phone back to Do Not Disturb mode, and continuing with your day.
+- Simply tell people close to you that you check texts several times a day, so if they send you something, you’ll see it shortly, and that if they need you urgently, they can always call you
+- simply keeping your phone in Do Not Disturb mode by default, and making texts something you check on a regular schedule—not a persistent background source of ongoing chatter—you can maintain the major advantages of the technology while sidestepping its more pernicious effects
+- The most successful digital minimalists, therefore, tend to start their conversion by renovating what they do with their free time—cultivating high-quality leisure before culling the worst of their digital habits
+- Leisure Lesson #1: Prioritize demanding activity over passive consumption.
+- People have the need to put their hands on tools and to make things. We need this in order to feel whole.” As Rogowski explains: “Long ago we learned to think by using our hands, not the other way around.
+- I made this point in my book Deep Work, where I noted that a deep activity like writing a piece of computer code that solves a problem (a high-skill effort) yields more meaning than a shallow activity like answering emails (a low-skill effort).
+- Leisure Lesson #2: Use skills to produce valuable things in the physical world.
+- Leisure Lesson #3: Seek activities that require real-world, structured social interactions
+- Here’s my suggestion: schedule in advance the time you spend on low-quality leisure. That is, work out the specific time periods during which you’ll indulge in web surfing, social media checking, and entertainment streaming. When you get to these periods, anything goes. If you want to binge-watch Netflix while live-streaming yourself browsing Twitter: go for it. But outside these periods, stay offline.
+- You’re not quitting anything or losing access to any information, you’re simply being more mindful of when you engage with this part of your leisure life. It’s difficult to paint such a reasonable restriction as untenable, which makes it more likely to last.
+- At the beginning of each week, put aside time to review your current seasonal leisure plan. After processing this information, come up with a plan for how your leisure activities will fit into your schedule for the upcoming week
+- A good seasonal plan will have a small number of interesting and motivating objectives, coupled with a small number of tractable habits designed to ensure a regular patina of quality. How you shift specific leisure ideas between these two categories is less important than keeping them reasonable and balanced for the season ahead.
+- If you’re already in the habit of creating detailed plans for your week (which I highly recommend), you can just integrate your weekly leisure plan into whatever system you already use for planning. The more you see these leisure plans as just part of your normal scheduling—and not some separate and potentially optional endeavor—the more likely you are to succeed in following them.
+- when you are done with this schedule, take time to review and remind yourself of the habits included in your seasonal plan.
+- The weekly leisure planning process itself requires only a handful of minutes, and scheduling in advance some high-quality leisure activities hardly removes all spontaneity from your free time
+- These decompression sessions have their place, but their rewards are muted, as they tend to devolve toward low-quality activities like mindless phone swiping and half-hearted binge-watching
+- You don’t have to quit these services; you just have to quit accessing them on the go
+- By removing your ability to access social media at any moment, you reduce its ability to become a crutch deployed to distract you from bigger voids in your life. At the same time, you’re not necessarily abandoning these services. By allowing yourself access (albeit less convenient) through a web browser, you preserve your ability to use specific features that you identify as important to your life—but on your own terms.
+- the power of a general-purpose computer is in the total number of things it enables the user to do, not the total number of things it enables the user to do simultaneously.
+- want you instead to think about these services as being blocked by default, and made available to you on an intentional schedule.
+- Have a careful plan for how you use the different platforms, with the goal of “maximizing good information and cutting out the waste.
+- If you can download these articles in advance, allowing you to read them without the distractions offered by an internet connection, that’s even better. Serious news consumers also tend to deploy browser plug-ins or aggregation
+- To foster the state of “full concentration” promoted by the Slow Media Manifesto, I further recommend that you ritualize this consumption by choosing a location that will support you in giving your full attention to the reading. I also recommend that you care about the particular format in which you do this reading
+- Digital minimalists see new technologies as tools to be used to support things they deeply value—not as sources of value themselves. They don’t accept the idea that offering some small benefit is justification for allowing an attention-gobbling service into their lives, and are instead interested in applying new technology in highly selective and intentional ways that yield big wins. Just as important: they’re comfortable missing out on everything else
+- In my experience, the key to sustained success with this philosophy is accepting that it’s not really about technology, but is instead more about the quality of your life
