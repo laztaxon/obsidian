@@ -11,8 +11,12 @@
             "id": "85293ea9a1556894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-21.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2024-03-21.md"
+              }
+            }
+          },
+          {
+            "id": "03b3639bb54b4d97",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,11 +152,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "85293ea9a1556894",
   "lastOpenFiles": [
+    "2024-03-21.md",
     "Resources/Reading List.md",
     "Resources/zsh.md",
     "Resources/Vimium.md",
@@ -166,7 +184,6 @@
     "Readwise/Articles/How to Clean Dog Rope Toy.md",
     "Readwise/Articles/Responsive UI Design With Figma’s Variables and Modes.md",
     "Readwise/Books/Designing Human-Centric AI Experiences.md",
-    "Readwise/Books/The GPT-4 Millionaire.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",

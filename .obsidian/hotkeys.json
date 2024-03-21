@@ -111,5 +111,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-day-planner:show-day-planner-today-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
