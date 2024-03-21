@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef00d41b51497caf",
+        "id": "1ee93d6eb41ae5e6",
         "type": "tabs",
         "children": [
           {
-            "id": "d728f9d89257ae96",
+            "id": "85293ea9a1556894",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/zsh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/zsh.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d728f9d89257ae96",
+  "active": "85293ea9a1556894",
   "lastOpenFiles": [
-    "Resources/Vimium.md",
+    "Resources/Reading List.md",
     "Resources/zsh.md",
+    "Resources/Vimium.md",
     "Resources/rust.md",
     "Resources/obsidian.md",
     "Resources/tmux.md",
@@ -175,7 +167,6 @@
     "Readwise/Articles/Responsive UI Design With Figma’s Variables and Modes.md",
     "Readwise/Books/Designing Human-Centric AI Experiences.md",
     "Readwise/Books/The GPT-4 Millionaire.md",
-    "Readwise/Books/You Are Here.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
