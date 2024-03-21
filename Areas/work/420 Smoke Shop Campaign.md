@@ -7,7 +7,7 @@ tags:
   - work
 ---
 	[[work_index]]
-[[420 SmokeShop Reference Doc]]
+[[How-to-win-420]]
 - 15:30 meeting on moday
 - ready to go end of day monday
 - PDF DL Document

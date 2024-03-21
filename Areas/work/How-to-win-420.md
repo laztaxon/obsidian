@@ -1,3 +1,8 @@
+---
+tags:
+  - first-draft
+---
+
 <>
 April 20th holds great importance for smoke shop owners involved in the cannabis industry or considering adding it to their business. This day, known as 420, is the biggest sales day of the year for most cannabis retailers. Last year's 420 holiday set a record for the busiest sales day in cannabis history. With even higher expectations for 420 in 2024, smoke shop owners must be well-prepared to make the most of this popular time.
   
