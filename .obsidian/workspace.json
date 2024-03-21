@@ -45,24 +45,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "bddb76381f779b9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b28cc1c8d517a43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/work/How-to-win-420.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/work/How-to-win-420.md",
+                "file": "2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/work/How-to-win-420.md",
+                "file": "2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/work/How-to-win-420.md"
+                "file": "2024-03-21.md"
               }
             }
           },
@@ -199,10 +181,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b28cc1c8d517a43f",
+  "active": "85293ea9a1556894",
   "lastOpenFiles": [
-    "2024-03-21.md",
+    "Zettlekasten/changing-bash-to-zsh.md",
     "Areas/work/How-to-win-420.md",
+    "2024-03-21.md",
     "Areas/work/420 Smoke Shop Campaign.md",
     "Resources/Reading List.md",
     "Resources/zsh.md",
@@ -226,7 +209,6 @@
     "Readwise/Articles/A Guide to Variables in Figma.md",
     "Readwise/Articles/The Case for AI Hallucination.md",
     "Readwise/Articles/Sam Altman Backs Teens’ AI Startup Automating Browser-Native Workflows.md",
-    "Readwise/Articles/How to Clean Dog Rope Toy.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
