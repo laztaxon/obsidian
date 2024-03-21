@@ -4,16 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee93d6eb41ae5e6",
+        "id": "32156abf7dac791c",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ee93d6eb41ae5e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85293ea9a1556894",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2024-03-21.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f5748f464e3b5830",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f7de6333910c4496",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Areas/work/420 Smoke Shop Campaign.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "bddb76381f779b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "85293ea9a1556894",
+            "id": "b28cc1c8d517a43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-21.md",
+                "file": "Areas/work/420 SmokeShop Reference Doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-21.md",
+                "file": "Areas/work/420 SmokeShop Reference Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-21.md",
+                "file": "Areas/work/420 SmokeShop Reference Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-21.md"
+                "file": "Areas/work/420 SmokeShop Reference Doc.md"
               }
             }
           },
@@ -156,9 +199,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "85293ea9a1556894",
+  "active": "b28cc1c8d517a43f",
   "lastOpenFiles": [
+    "Areas/work/420 Smoke Shop Campaign.md",
     "2024-03-21.md",
+    "Areas/work/420 SmokeShop Reference Doc.md",
     "Resources/Reading List.md",
     "Resources/zsh.md",
     "Resources/Vimium.md",
@@ -182,8 +227,6 @@
     "Readwise/Articles/The Case for AI Hallucination.md",
     "Readwise/Articles/Sam Altman Backs Teens’ AI Startup Automating Browser-Native Workflows.md",
     "Readwise/Articles/How to Clean Dog Rope Toy.md",
-    "Readwise/Articles/Responsive UI Design With Figma’s Variables and Modes.md",
-    "Readwise/Books/Designing Human-Centric AI Experiences.md",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
